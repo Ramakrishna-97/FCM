@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831028314083",
+    "project_id": "fcm-task-b452e",
+    "storage_bucket": "fcm-task-b452e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831028314083:android:9353f4d89fd6651b5faad6",
+        "android_client_info": {
+          "package_name": "com.example.fcmtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831028314083-to1s3mkppariqmv524ri5teem0senq3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcmtask",
+            "certificate_hash": "a305b4d4ab7b190304f0685c80e54bd8b6334490"
+          }
+        },
+        {
+          "client_id": "831028314083-ip75pmduvl3t6ea1k9s40608he98mc43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGIzbXCpktDw6XXZCl0IrdmfujrvmDc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831028314083-ip75pmduvl3t6ea1k9s40608he98mc43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
